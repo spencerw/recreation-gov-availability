@@ -3,7 +3,6 @@ import requests
 import datetime
 import calendar
 import json
-from dotenv import load_dotenv
 from fake_useragent import UserAgent
 from dateutil import rrule
 import re
@@ -15,7 +14,6 @@ import logging
 
 
 # Populate environment variables from .env if present, then read in environment variables.
-load_dotenv()
 API_KEY = os.getenv("API_KEY")
 FROM_GMAIL = os.getenv("FROM_GMAIL")
 FROM_GMAIL_APP_PASSWORD = os.getenv("FROM_GMAIL_APP_PASSWORD")

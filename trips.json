@@ -1,27 +1,23 @@
 {
   "trailheads": [
     {
-      "name": "Italy Pass",
-      "ID": "JM10",
+      "name": "Cottonwood Pass",
+      "ID": "GT60",
       "trips": [
-        {"starting_entry_date": "2022-09-27",
-         "ending_entry_date":  "2022-10-01",
-         "group_size": 3,
-         "email":  "placeholder@gmail.com"}
+        {"starting_entry_date": "2025-06-19",
+         "ending_entry_date":  "2025-06-23",
+         "group_size": 2,
+         "email":  "spencerw530@gmail.com"}
         ]
     },
     {
-      "name": "Big Pine Creek North Fork",
-      "ID": "JM23",
+      "name": "Baxter Pass",
+      "ID": "JM29",
       "trips": [
-        {"starting_entry_date": "2022-08-27",
-         "ending_entry_date":  "2022-08-28",
-         "group_size": 3,
-         "email":  "placeholder@gmail.com"},
-        {"starting_entry_date": "2022-09-02",
-         "ending_entry_date":  "2022-09-04",
-         "group_size": 3,
-         "email":  "placeholder@gmail.com"}
+        {"starting_entry_date": "2025-06-19",
+         "ending_entry_date":  "2025-06-23",
+         "group_size": 2,
+         "email":  "spencerw530@gmail.com"}
       ]
     }
   ]
