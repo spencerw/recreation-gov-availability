@@ -9,16 +9,6 @@
          "group_size": 2,
          "email":  "spencerw530@gmail.com"}
         ]
-    },
-    {
-      "name": "Baxter Pass",
-      "ID": "JM29",
-      "trips": [
-        {"starting_entry_date": "2025-06-19",
-         "ending_entry_date":  "2025-06-23",
-         "group_size": 2,
-         "email":  "spencerw530@gmail.com"}
-      ]
     }
   ]
 }
