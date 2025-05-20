@@ -11,7 +11,11 @@ import sys
 from email.message import EmailMessage
 from secrets import *
 import logging
+import random
+import time
 
+jitter_seconds = random.randint(0, 100)
+time.sleep(jitter_seconds)
 
 # Populate environment variables from .env if present, then read in environment variables.
 API_KEY = os.getenv("API_KEY")
